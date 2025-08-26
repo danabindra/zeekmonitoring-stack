@@ -1,5 +1,5 @@
 
-# Complete Monitoring Stack for macOS
+# Zeek Monitoring Stack Lab
 
 Docker Compose setup - Grafana, Loki, Alloy, Prometheus, Zeek, and Suricata for system monitoring and network security.
 
